@@ -5,14 +5,14 @@ html{
 }
 
 body {
-background-image: linear-gradient(darkblue, purple);
-padding:0px;
-margin:0px;
+background-image: linear-gradient(darkblue, black);
+background-attachment: fixed;
 }
 
-
-
-
+header{
+    background-color: darkblue;
+    
+}
 
 ul {
     list-style-type: none;
@@ -43,14 +43,16 @@ h1{
 width: 960px;height: 800px;
 margin-left: auto;
 margin-right: auto;
-background-color:grey ;
+background-color:rgb(46, 49, 83) ;
 }
 
 h1,h2,h3,h4,h5,h6,p,li {
-margin-left:15px;
+color: white;
+margin-left:20px;
 }
-#footer {
-height:80px;
+footer {
+position: absolute;
+bottom: 10%;
 }
 figure
 {
@@ -60,10 +62,11 @@ height:250px;
 background-color: darkblue;
 margin:50px;
 padding:5px;
-border:3px solid black;
-    
+border:3px solid black;    
 
 }
+
+
 
 textarea{
     margin: 20px;
