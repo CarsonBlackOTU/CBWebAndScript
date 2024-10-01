@@ -43,12 +43,6 @@ li a:hover {
         background-color: purple;
       }
 
-footer {
-        position: absolute;
-        height: 5%;
-        bottom: 10;
-        color: white;
-        }
 h1,h2,h3,h4,h5,h6,p,li {
     margin-left:10px;
         }
@@ -75,6 +69,12 @@ video {
         
     
 }
+
+
+footer {
+    padding-top: 5%;
+    padding-bottom: 2%;
+    }
 
 textarea{
 margin: 20px;
