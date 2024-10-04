@@ -39,7 +39,7 @@ li a:hover {
   }
 
 #wrapper {
-width: 60%;height: 1000px;
+width: 60%;height: 100%;
 margin-left: auto;
 margin-right: auto;
 background-color:rgb(46, 49, 83) ;
@@ -51,6 +51,7 @@ margin-left:20px;
 }
 footer {
 padding-top: 5%;
+padding-bottom: 5%;
 }
 
 img
@@ -84,3 +85,4 @@ textarea{
 address{
     margin-left: -20px;
 }
+
