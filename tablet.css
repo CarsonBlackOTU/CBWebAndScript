@@ -84,3 +84,7 @@ width: 80%;
 section
 {padding: 2px;}
 
+
+address{
+    margin-left: -10px;
+}
