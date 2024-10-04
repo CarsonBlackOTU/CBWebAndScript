@@ -14,7 +14,7 @@ header{
     
 }
 
-/*-used https://www.w3schools.com/css/css_navbar_horizontal.asp as reference document to style my nav bar*/
+/*used https://www.w3schools.com/css/css_navbar_horizontal.asp as reference document to style my nav bar*/
 /* styles the list elements in the nav as a block, removes list styling, and adds a visual hover indicator*/
 ul {
     list-style-type: none;
